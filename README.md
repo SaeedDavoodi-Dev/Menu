@@ -5,7 +5,7 @@
 ## 📖 Description
 A brief description of your amazing project!
 
-- [Demo Project]https://saeeddavoodi-dev.github.io/Menu/
+- [Demo Project](https://saeeddavoodi-dev.github.io/Menu/)
 
 ## ✨ Features
 - Feature 1
