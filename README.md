@@ -14,6 +14,15 @@ I built a vertical navigation menu with HTML and CSS.
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+- - Developed by SAEED DAVOODI
+
+- Created - 2025-08-29
+
+- Role - Frontend
+
+- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+
+
 
 
 
