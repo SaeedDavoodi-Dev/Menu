@@ -22,7 +22,7 @@ I built a vertical navigation menu with HTML and CSS.
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [instagram]([https://www.instagram.com/pouria_farahani_developer](https://www.instagram.com/saeed.davodi_dev?igsh=N2dpa2tucm05Ynpl)) and [linkedin]([https://www.linkedin.com/in/pouria-farahani-developer](https://www.linkedin.com/in/saeed-davoodi-127412368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 
 
