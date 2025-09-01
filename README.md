@@ -1,6 +1,6 @@
 # 🎯 Vertical Menu
 
-![Project Banner](images/banner.jpg)
+![Image](https://github.com/user-attachments/assets/af4ac909-cc05-44c0-bbd3-31187e91b273)
 
 ## 📖 Description
 A brief description of your amazing project!
