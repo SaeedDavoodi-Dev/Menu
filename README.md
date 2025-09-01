@@ -1,4 +1,4 @@
-# 🎯 Project Name
+# 🎯 Vertical Menu
 
 ![Project Banner](images/banner.jpg)
 
