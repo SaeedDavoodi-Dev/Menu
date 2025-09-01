@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/af4ac909-cc05-44c0-bbd3-31187e91b273)
 
 ## 📖 Description
-A brief description of your amazing project!
+I built a vertical navigation menu with HTML and CSS.
 
 - [Demo Project](https://saeeddavoodi-dev.github.io/Menu/)
 
